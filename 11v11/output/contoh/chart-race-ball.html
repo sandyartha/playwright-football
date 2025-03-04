@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bar Chart Race - Head to Head Manchester United vs Chelsea</title>
+  <!-- Load amCharts -->
+  <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+  <style>
+    #chartdiv {
+      width: 100%;
+      height: 500px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Head to Head: Manchester United vs Chelsea</h1>
+  <div id="chartdiv"></div>
+
+  <script>
+    // Data berdasarkan tanggal pertandingan
+    const matchData = [
+      { date: "2023-01-01", "Manchester United": 10, "Chelsea": 8, Draws: 5 },
+      { date: "2023-02-01", "Manchester United": 15, "Chelsea": 12, Draws: 7 },
+      { date: "2023-03-01", "Manchester United": 20, "Chelsea": 18, Draws: 9 },
+      { date: "2023-04-01", "Manchester United": 25, "Chelsea": 22, Draws: 11 },
+      { date: "2023-05-01", "Manchester United": 30, "Chelsea": 25, Draws: 13 }
+    ];
+
+    // Inisialisasi chart
+    am5.ready(function () {
+      // Create root element
+      var root = am5.Root.new("chartdiv");
+
+      // Set themes
+      root.setThemes([am5themes_Animated.new(root)]);
+
+      // Create chart
+      var chart = root.container.children.push(
+        am5xy.XYChart.new(root, {
+          panX: false,
+          panY: false,
+          wheelX: "none",
+          wheelY: "none",
+          layout: root.horizontalLayout
+        })
+      );
+
+      // Add scrollbar
+      chart.set("scrollbarX", am5.Scrollbar.new(root, {
+        orientation: "horizontal"
+      }));
+
+      // Create axes
+      var yRenderer = am5xy.AxisRendererY.new(root, {
+        minGridDistance: 30
+      });
+
+      var yAxis = chart.yAxes.push(
+        am5xy.CategoryAxis.new(root, {
+          categoryField: "team",
+          renderer: yRenderer
+        })
+      );
+
+      var xAxis = chart.xAxes.push(
+        am5xy.ValueAxis.new(root, {
+          renderer: am5xy.AxisRendererX.new(root, {})
+        })
+      );
+
+      // Add series
+      var series = chart.series.push(
+        am5xy.ColumnSeries.new(root, {
+          name: "Wins",
+          xAxis: xAxis,
+          yAxis: yAxis,
+          valueXField: "wins",
+          categoryYField: "team"
+        })
+      );
+
+      series.columns.template.setAll({
+        tooltipText: "{categoryY}: {valueX}",
+        width: am5.percent(90),
+        fillOpacity: 0.8
+      });
+
+      // Function to update chart data
+      let currentIndex = 0;
+      function updateChartData() {
+        if (currentIndex >= matchData.length) return;
+
+        const currentData = matchData[currentIndex];
+        const formattedData = [
+          { team: "Manchester United", wins: currentData["Manchester United"] },
+          { team: "Chelsea", wins: currentData["Chelsea"] },
+          { team: "Draws", wins: currentData.Draws }
+        ];
+
+        yAxis.data.setAll(formattedData);
+        series.data.setAll(formattedData);
+
+        currentIndex++;
+        if (currentIndex < matchData.length) {
+          setTimeout(updateChartData, 2000); // Update every 2 seconds
+        }
+      }
+
+      // Initialize chart with the first data point
+      updateChartData();
+
+      // Add cursor
+      chart.set("cursor", am5xy.XYCursor.new(root, {}));
+
+      // Animate chart
+      series.appear(1000);
+      chart.appear(1000, 100);
+    });
+  </script>
+</body>
+</html>
