@@ -1,0 +1,80 @@
+Name: Telmo Zarra
+Club: Athletic Bilbao
+Periods: 1940-1955
+--------------------------------------------------
+Name: Antoine Griezmann
+Club: Atlético de Madrid
+Periods: 2014-2019, 2021-2023, 2023-2025
+--------------------------------------------------
+Name: Sabino
+Club: CA Osasuna
+Periods: 1953-1963
+--------------------------------------------------
+Name: Joaquín Álvarez
+Club: CD Leganés
+Periods: 2000-2001, 2007-2010
+--------------------------------------------------
+Name: Iago Aspas
+Club: Celta de Vigo
+Periods: 2006-2013, 2015-2025
+--------------------------------------------------
+Name: Borja Viguera
+Club: Deportivo Alavés
+Periods: 2012-2014
+--------------------------------------------------
+Name: Lionel Messi
+Club: FC Barcelona
+Periods: 2005-2021
+--------------------------------------------------
+Name: Jorge Molina
+Club: Getafe CF
+Periods: 2016-2020
+--------------------------------------------------
+Name: Cristhian Stuani
+Club: Girona FC
+Periods: 2017-2025
+--------------------------------------------------
+Name: Míchel
+Club: Rayo Vallecano
+Periods: 1993-1996, 1997-2003, 2006-2012
+--------------------------------------------------
+Name: Raúl Tamudo
+Club: RCD Espanyol Barcelona
+Periods: 1996-1997, 1998-1998, 1999-2010
+--------------------------------------------------
+Name: Samuel Eto'o
+Club: RCD Mallorca
+Periods: 2000-2000, 2000-2004
+--------------------------------------------------
+Name: Rubén Castro
+Club: Real Betis Balompié
+Periods: 2010-2017, 2017-2018
+--------------------------------------------------
+Name: Cristiano Ronaldo
+Club: Real Madrid
+Periods: 2009-2018
+--------------------------------------------------
+Name: Jesús Satrustegui
+Club: Real Sociedad
+Periods: 1973-1986
+--------------------------------------------------
+Name: Víctor Fernández
+Club: Real Valladolid CF
+Periods: 1996-2000, 2004-2009
+--------------------------------------------------
+Name: Juan Arza
+Club: Sevilla FC
+Periods: 1943-1959
+--------------------------------------------------
+Name: Germán Dévora
+Club: UD Las Palmas
+Periods: 1962-1978
+--------------------------------------------------
+Name: Mundo
+Club: Valencia CF
+Periods: 1939-1950
+--------------------------------------------------
+Name: Gerard Moreno
+Club: Villarreal CF
+Periods: 2010-2013, 2014-2015, 2018-2025
+--------------------------------------------------

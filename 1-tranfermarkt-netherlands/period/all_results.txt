@@ -1,0 +1,72 @@
+Name: Johan Cruyff
+Club: Ajax Amsterdam
+Periods: 1964-1973, 1981-1983
+--------------------------------------------------
+Name: Sander Duits
+Club: Almere City FC
+Periods: 2006-2010
+--------------------------------------------------
+Name: Kees Kist
+Club: AZ Alkmaar
+Periods: 1972-1982, 1984-1986
+--------------------------------------------------
+Name: Peter Houtman
+Club: FC Groningen
+Periods: 1977-1978, 1979-1982, 1985-1987
+--------------------------------------------------
+Name: Leo van Veen
+Club: FC Utrecht
+Periods: 1970-1979, 1979-1980, 1980-1982, 1983-1984
+--------------------------------------------------
+Name: Cor van der Gijp
+Club: Feyenoord Rotterdam
+Periods: 1955-1964
+--------------------------------------------------
+Name: Ronald Hamming
+Club: Fortuna Sittard
+Periods: 1995-2003
+--------------------------------------------------
+Name: Cees van Kooten
+Club: Go Ahead Eagles
+Periods: 1976-1983
+--------------------------------------------------
+Name: Everton
+Club: Heracles Almelo
+Periods: 2006-2013
+--------------------------------------------------
+Name: Leo Canjels
+Club: NAC Breda
+Periods: 1950-1963
+--------------------------------------------------
+Name: Frans Janssen
+Club: NEC Nijmegen
+Periods: 1977-1991
+--------------------------------------------------
+Name: Herman Heskamp
+Club: PEC Zwolle
+Periods: 1969-1975
+--------------------------------------------------
+Name: Willy van der Kuijlen
+Club: PSV Eindhoven
+Periods: 1964-1981
+--------------------------------------------------
+Name: Rick Hoogendorp
+Club: RKC Waalwijk
+Periods: 1998-2000, 2000-2006
+--------------------------------------------------
+Name: Eddy Bosman
+Club: SC Heerenveen
+Periods: 1973-1976, 1977-1983, 1985-1987
+--------------------------------------------------
+Name: Henk 'Charly' Bosveld
+Club: Sparta Rotterdam
+Periods: 1964-1968, 1969-1973
+--------------------------------------------------
+Name: Jan Jeuring
+Club: Twente Enschede FC
+Periods: 1966-1977
+--------------------------------------------------
+Name: Coy Koopal
+Club: Willem II Tilburg
+Periods: 1956-1964
+--------------------------------------------------

@@ -1,0 +1,48 @@
+Name: Niall McGinn
+Club: Aberdeen FC
+Periods: 2012-2017, 2018-2022
+--------------------------------------------------
+Name: Henrik Larsson
+Club: Celtic FC
+Periods: 1997-2004
+--------------------------------------------------
+Name: Steven Milne
+Club: Dundee FC
+Periods: 1997-1999, 2000-2004, 2011-2013
+--------------------------------------------------
+Name: Jon Daly
+Club: Dundee United FC
+Periods: 2006-2013
+--------------------------------------------------
+Name: Jamie Walker
+Club: Heart of Midlothian FC
+Periods: 2012-2018, 2019-2022, 2022-2022
+--------------------------------------------------
+Name: Derek Riordan
+Club: Hibernian FC
+Periods: 1999-2003, 2003-2006, 2008-2011
+--------------------------------------------------
+Name: Kris Boyd
+Club: Kilmarnock FC
+Periods: 2000-2006, 2013-2014, 2015-2019
+--------------------------------------------------
+Name: John Sutton
+Club: Motherwell FC
+Periods: 2008-2011, 2013-2015
+--------------------------------------------------
+Name: James Tavernier
+Club: Rangers FC
+Periods: 2015-2025
+--------------------------------------------------
+Name: Michael Gardyne
+Club: Ross County FC
+Periods: 2006-2007, 2008-2012, 2014-2015, 2015-2021
+--------------------------------------------------
+Name: Stevie May
+Club: St. Johnstone FC
+Periods: 2007-2011, 2012-2012, 2013-2014, 2019-2024, 2026-2025
+--------------------------------------------------
+Name: Steven Thompson
+Club: St. Mirren FC
+Periods: 2011-2016
+--------------------------------------------------

@@ -1,0 +1,64 @@
+Name: Fessou Euloge Placca
+Club: Beerschot VA
+Periods: 2021-2021, 2022-2022
+--------------------------------------------------
+Name: Josip Weber
+Club: Cercle Brugge
+Periods: 1988-1994
+--------------------------------------------------
+Name: Jan Ceulemans
+Club: Club Brugge KV
+Periods: 1978-1992
+--------------------------------------------------
+Name: Ignazio Cocchiere
+Club: FCV Dender EH
+Periods: 2016-2019
+--------------------------------------------------
+Name: Laurent Depoitre
+Club: KAA Gent
+Periods: 2014-2016, 2019-2024
+--------------------------------------------------
+Name: Jelle Vossen
+Club: KRC Genk
+Periods: 2007-2009, 2010-2014, 2015-2015
+--------------------------------------------------
+Name: Toni Brogno
+Club: KVC Westerlo
+Periods: 1997-2000, 2002-2004
+--------------------------------------------------
+Name: Teddy Chevalier
+Club: KV Kortrijk
+Periods: 2013-2015, 2017-2019, 2021-2021
+--------------------------------------------------
+Name: Piet den Boer
+Club: KV Mechelen
+Periods: 1982-1989
+--------------------------------------------------
+Name: Bjorn Ruytinx
+Club: Oud-Heverlee Leuven
+Periods: 2004-2014
+--------------------------------------------------
+Name: Francis Severeyns
+Club: Royal Antwerp FC
+Periods: 1984-1988, 1992-1997
+--------------------------------------------------
+Name: Paul Van Himst
+Club: RSC Anderlecht
+Periods: 1959-1975
+--------------------------------------------------
+Name: Dante Brogno
+Club: R Charleroi SC
+Periods: 1986-2001
+--------------------------------------------------
+Name: Désiré M'Bonabucya
+Club: Sint-Truidense VV
+Periods: 2000-2004, 2005-2007
+--------------------------------------------------
+Name: Roger Claessen
+Club: Standard Liège
+Periods: 1958-1968
+--------------------------------------------------
+Name: Dante Vanzeir
+Club: Union Saint-Gilloise
+Periods: 2020-2023
+--------------------------------------------------

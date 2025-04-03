@@ -1,0 +1,80 @@
+Name: Edmílson
+Club: Albirex Niigata
+Periods: 2004-2008
+--------------------------------------------------
+Name: Hisashi Jogo
+Club: Avispa Fukuoka
+Periods: 2005-2025
+--------------------------------------------------
+Name: Hiroaki Morishima
+Club: Cerezo Osaka
+Periods: 1991-2008
+--------------------------------------------------
+Name: Yuki Oshitani
+Club: Fagiano Okayama
+Periods: 2013-2014, 2014-2017
+--------------------------------------------------
+Name: Lucas Severino
+Club: FC Tokyo
+Periods: 2004-2008, 2011-2014
+--------------------------------------------------
+Name: Takashi Usami
+Club: Gamba Osaka
+Periods: 2009-2011, 2012-2012, 2013-2016, 2019-2025
+--------------------------------------------------
+Name: Yoshiyuki Hasegawa
+Club: Kashima Antlers
+Periods: 1991-2003
+--------------------------------------------------
+Name: Cristiano
+Club: Kashiwa Reysol
+Periods: 2015-2015, 2016-2022
+--------------------------------------------------
+Name: Juninho
+Club: Kawasaki Frontale
+Periods: 2003-2012
+--------------------------------------------------
+Name: Paulinho
+Club: Kyoto Sanga
+Periods: 2005-2009
+--------------------------------------------------
+Name: Koji Suzuki
+Club: Machida Zelvia
+Periods: 2012-2019
+--------------------------------------------------
+Name: Ueslei
+Club: Nagoya Grampus
+Periods: 2000-2005
+--------------------------------------------------
+Name: Hisato Sato
+Club: Sanfrecce Hiroshima
+Periods: 2005-2017
+--------------------------------------------------
+Name: Masaaki Sawanobori
+Club: Shimizu S-Pulse
+Periods: 1992-2006
+--------------------------------------------------
+Name: Koji Noguchi
+Club: Shonan Bellmare
+Periods: 1989-1997
+--------------------------------------------------
+Name: Kazuyoshi Miura
+Club: Tokyo Verdy
+Periods: 1995-1999
+--------------------------------------------------
+Name: Shinzo Koroki
+Club: Urawa Red Diamonds
+Periods: 2013-2022, 2023-2025
+--------------------------------------------------
+Name: Yuya Osako
+Club: Vissel Kobe
+Periods: 2021-2025
+--------------------------------------------------
+Name: Ibba Laajab
+Club: Yokohama FC
+Periods: 2016-2020
+--------------------------------------------------
+Name: Shunsuke Nakamura
+Club: Yokohama F. Marinos
+Periods: 1997-2023
+--------------------------------------------------

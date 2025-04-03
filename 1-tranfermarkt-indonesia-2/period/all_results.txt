@@ -1,0 +1,96 @@
+Name: Aleksa Andrejic
+Club: Adhyaksa FC
+Periods: 2024-2025
+--------------------------------------------------
+Name: Herman Dzumafo
+Club: Bhayangkara Presisi FC
+Periods: 2018-2021, 2022-2022
+--------------------------------------------------
+Name: Wawan Sumadi
+Club: Dejan FC
+Periods: 2022-2025
+--------------------------------------------------
+Name: Risal Amin
+Club: Deltras FC
+Periods: 2022-2025
+--------------------------------------------------
+Name: Ezechiel Ndouasel
+Club: FC Bekasi City
+Periods: 2023-2024
+--------------------------------------------------
+Name: Gaston Castaño
+Club: Gresik United FC
+Periods: 2011-2013
+--------------------------------------------------
+Name: Matheus
+Club: Nusantara United FC
+Periods: 2023-2024
+--------------------------------------------------
+Name: Rafly Ariyanto
+Club: Persekat Tegal
+Periods: 2024-2025
+--------------------------------------------------
+Name: Mario Costas
+Club: Persela Lamongan
+Periods: 2011-2014
+--------------------------------------------------
+Name: Boaz Solossa
+Club: Persewar Waropen
+Periods: 2023-2024
+--------------------------------------------------
+Name: Osas Saha
+Club: Persibo Bojonegoro
+Periods: 2024-2025
+--------------------------------------------------
+Name: Rosalvo
+Club: Persijap Jepara
+Periods: 2024-2025
+--------------------------------------------------
+Name: Ciro Alves
+Club: Persikabo 1973
+Periods: 2019-2022
+--------------------------------------------------
+Name: Muhammad Isa
+Club: Persikas Subang
+Periods: 2024-2025
+--------------------------------------------------
+Name: Paulo Henrique
+Club: Persikota Tangerang
+Periods: 2024-2025
+--------------------------------------------------
+Name: Fikri Ardiansyah
+Club: Persipal Palu FC
+Periods: 2023-2025
+--------------------------------------------------
+Name: Fendy Ninggar
+Club: Persipa Pati
+Periods: 2021-2025
+--------------------------------------------------
+Name: Boaz Solossa
+Club: Persipura Jayapura
+Periods: 2005-2016, 2016-2021, 2024-2025
+--------------------------------------------------
+Name: Deri Corfe
+Club: Persiraja Banda Aceh
+Periods: 2024-2025
+--------------------------------------------------
+Name: Rafinha
+Club: PSIM Yogyakarta
+Periods: 2024-2025
+--------------------------------------------------
+Name: Matheus
+Club: PSKC Cimahi
+Periods: 2024-2025
+--------------------------------------------------
+Name: Rachmad Hidayat
+Club: PSMS Medan
+Periods: 2018-2019, 2020-2022, 2023-2025
+--------------------------------------------------
+Name: Herman Dzumafo
+Club: PSPS Pekanbaru
+Periods: 2007-2012, 2016-2018
+--------------------------------------------------
+Name: Mitsuru Maruoka
+Club: RANS Nusantara FC
+Periods: 2022-2024
+--------------------------------------------------

@@ -1,0 +1,36 @@
+Name: Mislav Orsic
+Club: GNK Dinamo Zagreb
+Periods: 2018-2023
+--------------------------------------------------
+Name: Kristijan Lovric
+Club: HNK Gorica
+Periods: 2018-2022
+--------------------------------------------------
+Name: Mijo Caktas
+Club: HNK Hajduk Split
+Periods: 2011-2016, 2018-2021
+--------------------------------------------------
+Name: Andrej Kramaric
+Club: HNK Rijeka
+Periods: 2013-2015
+--------------------------------------------------
+Name: Ermin Zec
+Club: HNK Sibenik
+Periods: 2007-2010
+--------------------------------------------------
+Name: Goran Roce
+Club: NK Istra 1961
+Periods: 2005-2006, 2007-2013, 2016-2017, 2018-2018
+--------------------------------------------------
+Name: Nino Bule
+Club: NK Lokomotiva Zagreb
+Periods: 2009-2012
+--------------------------------------------------
+Name: Ramón Miérez
+Club: NK Osijek
+Periods: 2020-2021, 2021-2024
+--------------------------------------------------
+Name: Miljenko Mumlek
+Club: NK Varazdin
+Periods: 1991-1999, 2000-2003, 2007-2012
+--------------------------------------------------

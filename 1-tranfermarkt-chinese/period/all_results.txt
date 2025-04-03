@@ -1,0 +1,64 @@
+Name: Peng Han
+Club: Shandong Taishan
+Periods: NO DATA
+--------------------------------------------------
+Name: Jun Ruan
+Club: Shenzhen Peng City
+Periods: NO DATA
+--------------------------------------------------
+Name: Xizhe Zhang
+Club: Beijing Guoan
+Periods: 2010-2015, 2015-2025
+--------------------------------------------------
+Name: Long Tan
+Club: Changchun Yatai
+Periods: 2017-2025
+--------------------------------------------------
+Name: Felipe Silva
+Club: Chengdu Rongcheng
+Periods: 2021-2025
+--------------------------------------------------
+Name: Xuebin Zhao
+Club: Dalian Yingbo
+Periods: 2023-2025
+--------------------------------------------------
+Name: Leandro Netto
+Club: Henan FC
+Periods: 2009-2013
+--------------------------------------------------
+Name: John Mary
+Club: Meizhou Hakka
+Periods: 2018-2019, 2024-2025
+--------------------------------------------------
+Name: Jiaqi Chen
+Club: Qingdao Hainiu
+Periods: 2023-2024, 2024-2024, 2024-2025, 2025-2025
+--------------------------------------------------
+Name: Kai Li
+Club: Qingdao West Coast
+Periods: 2024-2025
+--------------------------------------------------
+Name: Lei Wu
+Club: Shanghai Port
+Periods: 2022-2025
+--------------------------------------------------
+Name: Giovanni Moreno
+Club: Shanghai Shenhua
+Periods: 2012-2022
+--------------------------------------------------
+Name: Frank Acheampong
+Club: Tianjin Jinmen Tiger
+Periods: 2017-2017, 2018-2021
+--------------------------------------------------
+Name: Marcão
+Club: Wuhan Three Towns
+Periods: 2021-2023, 2023-2023
+--------------------------------------------------
+Name: Zilong Han
+Club: Yunnan Yukun
+Periods: 2022-2025
+--------------------------------------------------
+Name: Nyasha Mushekwi
+Club: Zhejiang FC
+Periods: 2019-2024
+--------------------------------------------------

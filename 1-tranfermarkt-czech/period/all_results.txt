@@ -1,0 +1,60 @@
+Name: Libor Dosek
+Club: 1.FC Slovacko
+Periods: 1997-1998, 1998-1998, 2011-2016
+--------------------------------------------------
+Name: David Bartek
+Club: Bohemians Prague 1905
+Periods: 2006-2009, 2009-2023
+--------------------------------------------------
+Name: Milan Baros
+Club: FC Banik Ostrava
+Periods: 1998-2002, 2013-2013, 2014-2015, 2017-2020
+--------------------------------------------------
+Name: Pavel Dvorak
+Club: FC Hradec Kralove
+Periods: 2007-2015, 2020-2023
+--------------------------------------------------
+Name: Jan Nezmar
+Club: FC Slovan Liberec
+Periods: 2000-2003, 2007-2013
+--------------------------------------------------
+Name: Daniel Kolar
+Club: FC Viktoria Plzen
+Periods: 2008-2016, 2017-2019
+--------------------------------------------------
+Name: Tomas Berger
+Club: FK Dukla Prague
+Periods: 2005-2005, 2006-2007, 2007-2012, 2012-2016
+--------------------------------------------------
+Name: David Lafata
+Club: FK Jablonec
+Periods: 2007-2018
+--------------------------------------------------
+Name: Jan Chramosta
+Club: FK Mlada Boleslav
+Periods: 2009-2014, 2015-2018
+--------------------------------------------------
+Name: Michal Petran
+Club: FK Pardubice
+Periods: 2014-2015, 2015-2019, 2020-2021, 2022-2022
+--------------------------------------------------
+Name: Pavel Verbir
+Club: FK Teplice
+Periods: 1992-2011
+--------------------------------------------------
+Name: Lukas Budinsky
+Club: MFK Karvina
+Periods: 2014-2015, 2015-2019, 2022-2023, 2023-2024
+--------------------------------------------------
+Name: Ivo Taborsky
+Club: SK Dynamo Ceske Budejovice
+Periods: 2005-2006, 2006-2007, 2012-2013, 2016-2020
+--------------------------------------------------
+Name: Michal Ordos
+Club: SK Sigma Olomouc
+Periods: 2008-2011, 2011-2016
+--------------------------------------------------
+Name: Milan Skoda
+Club: SK Slavia Prague
+Periods: 2012-2020, 2023-2025
+--------------------------------------------------

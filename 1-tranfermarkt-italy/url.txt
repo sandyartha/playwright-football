@@ -1,0 +1,21 @@
+
+READY
+==============
+https://www.transfermarkt.us/juventus-turin/rekordspieler/verein/506/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/ac-mailand/rekordspieler/verein/5/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/inter-mailand/rekordspieler/verein/46/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/atalanta-bergamo/rekordspieler/verein/800/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/ssc-neapel/rekordspieler/verein/6195/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/as-rom/rekordspieler/verein/12/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+
+https://www.transfermarkt.us/lazio-rom/rekordspieler/verein/398/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/ac-florenz/rekordspieler/verein/430/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/fc-bologna/rekordspieler/verein/1025/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/fc-turin/rekordspieler/verein/416/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/parma-calcio-1913/rekordspieler/verein/130/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+https://www.transfermarkt.us/genua-cfc/rekordspieler/verein/252/wettbewerb_id/alle/position/alle/aktive/alle/detailposition/alle/plus/1
+
+
+NOT READY
+===============
+

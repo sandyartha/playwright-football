@@ -1,0 +1,68 @@
+Name: Marc Schnatterer
+Club: 1.FC Heidenheim 1846
+Periods: 2008-2021
+--------------------------------------------------
+Name: Jacek Mencel
+Club: 1.FC Union Berlin
+Periods: 1990-1994
+--------------------------------------------------
+Name: Gerd Müller
+Club: Bayern Munich
+Periods: 1964-1979
+--------------------------------------------------
+Name: Ulf Kirsten
+Club: Bayer 04 Leverkusen
+Periods: 1990-2003
+--------------------------------------------------
+Name: Adi Preißler
+Club: Borussia Dortmund
+Periods: 1946-1950, 1952-1959
+--------------------------------------------------
+Name: Jupp Heynckes
+Club: Borussia Mönchengladbach
+Periods: 1963-1967, 1970-1978
+--------------------------------------------------
+Name: Bernd Hölzenbein
+Club: Eintracht Frankfurt
+Periods: 1967-1981
+--------------------------------------------------
+Name: Ulrich Biesinger
+Club: FC Augsburg
+Periods: 1952-1960, 1963-1965
+--------------------------------------------------
+Name: Peter Osterhoff
+Club: FC St. Pauli
+Periods: 1958-1970
+--------------------------------------------------
+Name: Gerd Koll
+Club: Holstein Kiel
+Periods: 1958-1968
+--------------------------------------------------
+Name: Timo Werner
+Club: RB Leipzig
+Periods: 2016-2020, 2022-2024, 2025-2025
+--------------------------------------------------
+Name: Nils Petersen
+Club: SC Freiburg
+Periods: 2015-2015, 2015-2023
+--------------------------------------------------
+Name: Arnold Schütz
+Club: SV Werder Bremen
+Periods: 1955-1972
+--------------------------------------------------
+Name: Andrej Kramaric
+Club: TSG 1899 Hoffenheim
+Periods: 2016-2016, 2016-2025
+--------------------------------------------------
+Name: Karl Allgöwer
+Club: VfB Stuttgart
+Periods: 1980-1991
+--------------------------------------------------
+Name: Hans Walitza
+Club: VfL Bochum
+Periods: 1969-1974
+--------------------------------------------------
+Name: Olaf Ansorge
+Club: VfL Wolfsburg
+Periods: 1981-1992
+--------------------------------------------------

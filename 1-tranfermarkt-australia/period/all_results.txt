@@ -1,0 +1,52 @@
+Name: Craig Goodwin
+Club: Adelaide United
+Periods: 2014-2016, 2018-2019, 2021-2022, 2022-2023
+--------------------------------------------------
+Name: Guillermo May
+Club: Auckland FC
+Periods: 2024-2025
+--------------------------------------------------
+Name: Besart Berisha
+Club: Brisbane Roar
+Periods: 2011-2014
+--------------------------------------------------
+Name: Matt Simon
+Club: Central Coast Mariners
+Periods: 2006-2012, 2013-2015, 2018-2022
+--------------------------------------------------
+Name: Valère Germain
+Club: Macarthur FC
+Periods: 2023-2025
+--------------------------------------------------
+Name: Jamie Maclaren
+Club: Melbourne City FC
+Periods: 2019-2024
+--------------------------------------------------
+Name: Besart Berisha
+Club: Melbourne Victory
+Periods: 2014-2018
+--------------------------------------------------
+Name: Roy O'Donovan
+Club: Newcastle United Jets
+Periods: 2017-2019, 2020-2021
+--------------------------------------------------
+Name: Andy Keogh
+Club: Perth Glory
+Periods: 2014-2015, 2015-2019, 2020-2022
+--------------------------------------------------
+Name: Adam Le Fondre
+Club: Sydney FC
+Periods: 2018-2020, 2021-2023
+--------------------------------------------------
+Name: Roy Krishna
+Club: Wellington Phoenix
+Periods: 2014-2019
+--------------------------------------------------
+Name: Mark Bridge
+Club: Western Sydney Wanderers
+Periods: 2012-2016, 2017-2019
+--------------------------------------------------
+Name: Besart Berisha
+Club: Western United FC
+Periods: 2019-2021
+--------------------------------------------------

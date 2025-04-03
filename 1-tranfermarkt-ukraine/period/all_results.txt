@@ -1,0 +1,64 @@
+Name: Tymerlan Guseynov
+Club: Chornomorets Odesa
+Periods: 1993-2001
+--------------------------------------------------
+Name: Oleg Blokhin
+Club: Dynamo Kyiv
+Periods: 1969-1988
+--------------------------------------------------
+Name: Sergiy Chuychenko
+Club: FC Oleksandriya
+Periods: 1993-1995, 1995-1996, 2000-2003
+--------------------------------------------------
+Name: Oleksandr Akymenko
+Club: Ingulets Petrove
+Periods: 2017-2020
+--------------------------------------------------
+Name: Ambrosiy Chachua
+Club: Karpaty Lviv
+Periods: 2011-2018, 2021-2025
+--------------------------------------------------
+Name: Oleksandr Bondarenko
+Club: Kolos Kovalivka
+Periods: 2014-2020, 2020-2021
+--------------------------------------------------
+Name: Yevgen Rymshyn
+Club: Kryvbas Kryvyi Rig
+Periods: 1998-2004
+--------------------------------------------------
+Name: Andriy Spivakov
+Club: Livyi Bereg Kyiv
+Periods: 2021-2022, 2023-2025
+--------------------------------------------------
+Name: Ivan Tyshchenko
+Club: LNZ Cherkasy
+Periods: 2021-2024
+--------------------------------------------------
+Name: Ruslan Stepanyuk
+Club: NK Veres Rivne
+Periods: 2016-2018, 2024-2025
+--------------------------------------------------
+Name: Oleksandr Batalskyi
+Club: Obolon Kyiv
+Periods: 2019-2023
+--------------------------------------------------
+Name: Pylyp Budkivskyi
+Club: Polissya Zhytomyr
+Periods: 2022-2024
+--------------------------------------------------
+Name: Yuriy Klymchuk
+Club: Rukh Lviv
+Periods: 2019-2025
+--------------------------------------------------
+Name: Luiz Adriano
+Club: Shakhtar Donetsk
+Periods: 2007-2015
+--------------------------------------------------
+Name: Sergiy Chuychenko
+Club: Vorskla Poltava
+Periods: 1996-1998, 1998-1999
+--------------------------------------------------
+Name: Oleksandr Malyshenko
+Club: Zorya Lugansk
+Periods: 1978-1981, 1982-1985, 1988-1991, 1996-1997
+--------------------------------------------------

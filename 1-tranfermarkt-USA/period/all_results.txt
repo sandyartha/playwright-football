@@ -1,0 +1,112 @@
+Name: Josef Martínez
+Club: Atlanta United FC
+Periods: 2017-2017, 2017-2023
+--------------------------------------------------
+Name: Sebastián Driussi
+Club: Austin FC
+Periods: 2021-2025
+--------------------------------------------------
+Name: Ignacio Piatti
+Club: CF Montréal
+Periods: 2014-2020
+--------------------------------------------------
+Name: Karol Swiderski
+Club: Charlotte FC
+Periods: 2022-2024, 2024-2025
+--------------------------------------------------
+Name: Ante Razov
+Club: Chicago Fire FC
+Periods: 1998-2000, 2001-2005
+--------------------------------------------------
+Name: Conor Casey
+Club: Colorado Rapids
+Periods: 2007-2012
+--------------------------------------------------
+Name: Brian McBride
+Club: Columbus Crew
+Periods: 1995-2000, 2001-2003, 2003-2004
+--------------------------------------------------
+Name: Jaime Moreno
+Club: D.C. United
+Periods: 1996-2002, 2004-2011
+--------------------------------------------------
+Name: Luciano Acosta
+Club: FC Cincinnati
+Periods: 2021-2025
+--------------------------------------------------
+Name: Jason Kreis
+Club: FC Dallas
+Periods: 1995-2004
+--------------------------------------------------
+Name: Brian Ching
+Club: Houston Dynamo FC
+Periods: 2005-2011, 2012-2013
+--------------------------------------------------
+Name: Lionel Messi
+Club: Inter Miami CF
+Periods: 2023-2025
+--------------------------------------------------
+Name: Robin Lod
+Club: Minnesota United FC
+Periods: 2019-2025
+--------------------------------------------------
+Name: Hany Mukhtar
+Club: Nashville SC
+Periods: 2020-2025
+--------------------------------------------------
+Name: Taylor Twellman
+Club: New England Revolution
+Periods: 2002-2010
+--------------------------------------------------
+Name: David Villa
+Club: New York City FC
+Periods: 2014-2014, 2014-2019
+--------------------------------------------------
+Name: Bradley Wright-Phillips
+Club: New York Red Bulls
+Periods: 2013-2020, 2022-2022
+--------------------------------------------------
+Name: Facundo Torres
+Club: Orlando City SC
+Periods: 2022-2025
+--------------------------------------------------
+Name: Dániel Gazdag
+Club: Philadelphia Union
+Periods: 2021-2025
+--------------------------------------------------
+Name: Diego Váleri
+Club: Portland Timbers
+Periods: 2013-2013, 2013-2022, 2022-2022
+--------------------------------------------------
+Name: Álvaro Saborío
+Club: Real Salt Lake City
+Periods: 2010-2010, 2011-2015
+--------------------------------------------------
+Name: Anders Dreyer
+Club: San Diego FC
+Periods: 2025-2025
+--------------------------------------------------
+Name: Chris Wondolowski
+Club: San Jose Earthquakes
+Periods: 2005-2006, 2009-2022
+--------------------------------------------------
+Name: Jordan Morris
+Club: Seattle Sounders FC
+Periods: 2016-2021, 2021-2025
+--------------------------------------------------
+Name: Preki
+Club: Sporting Kansas City
+Periods: 1996-2001, 2002-2006
+--------------------------------------------------
+Name: João Klauss
+Club: St. Louis CITY SC
+Periods: 2022-2025
+--------------------------------------------------
+Name: Sebastian Giovinco
+Club: Toronto FC
+Periods: 2015-2019
+--------------------------------------------------
+Name: Brian White
+Club: Vancouver Whitecaps FC
+Periods: 2021-2025
+--------------------------------------------------

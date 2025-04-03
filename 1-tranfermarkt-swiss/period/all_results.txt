@@ -1,0 +1,48 @@
+Name: Eugen Meier
+Club: BSC Young Boys
+Periods: 1951-1965
+--------------------------------------------------
+Name: Josef Hügi
+Club: FC Basel 1893
+Periods: 1947-1962
+--------------------------------------------------
+Name: Robert Hosp
+Club: FC Lausanne-Sport
+Periods: 1959-1967
+--------------------------------------------------
+Name: Otto Luttrop
+Club: FC Lugano
+Periods: 1966-1973
+--------------------------------------------------
+Name: Peter Risi
+Club: FC Luzern
+Periods: 1979-1984
+--------------------------------------------------
+Name: Jean-Paul Brigger
+Club: FC Sion
+Periods: 1977-1982, 1985-1992
+--------------------------------------------------
+Name: Alex Tachie-Mensah
+Club: FC St. Gallen 1879
+Periods: 2002-2009
+--------------------------------------------------
+Name: Patrick Bengondo
+Club: FC Winterthur
+Periods: 2005-2006, 2007-2008, 2011-2016
+--------------------------------------------------
+Name: Fritz Künzli
+Club: FC Zürich
+Periods: 1964-1973
+--------------------------------------------------
+Name: Claudio Sulser
+Club: Grasshopper Club Zurich
+Periods: 1977-1985
+--------------------------------------------------
+Name: Jacques Fatton
+Club: Servette FC
+Periods: 1944-1954, 1957-1963
+--------------------------------------------------
+Name: Francisco Aguirre
+Club: Yverdon Sport FC
+Periods: 2003-2006, 2006-2006
+--------------------------------------------------

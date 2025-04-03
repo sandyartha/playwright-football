@@ -1,0 +1,76 @@
+Name: Mickaël Poté
+Club: Adana Demirspor
+Periods: 2015-2017, 2018-2019
+--------------------------------------------------
+Name: Emre Akbaba
+Club: Alanyaspor
+Periods: 2013-2015, 2016-2016, 2016-2018, 2021-2022
+--------------------------------------------------
+Name: Lamine Diarra
+Club: Antalyaspor
+Periods: 2012-2016, 2016-2017
+--------------------------------------------------
+Name: Edin Visca
+Club: Basaksehir FK
+Periods: 2011-2022
+--------------------------------------------------
+Name: Feyyaz Uçar
+Club: Besiktas JK
+Periods: 1982-1994
+--------------------------------------------------
+Name: Celal Dumanlı
+Club: Bodrum FK
+Periods: 2012-2025
+--------------------------------------------------
+Name: Léonard Kweuke
+Club: Caykur Rizespor
+Periods: 2013-2018
+--------------------------------------------------
+Name: Atakan Arslan
+Club: Eyüpspor
+Periods: 2014-2019, 2020-2020, 2021-2021, 2021-2021
+--------------------------------------------------
+Name: Alex
+Club: Fenerbahce
+Periods: 2004-2012
+--------------------------------------------------
+Name: Hakan Şükür
+Club: Galatasaray
+Periods: 1992-1995, 1995-2000, 2003-2008
+--------------------------------------------------
+Name: Serdar Deliktaş
+Club: Gaziantep FK
+Periods: 2009-2014
+--------------------------------------------------
+Name: Halil Akbunar
+Club: Göztepe
+Periods: 2012-2015, 2016-2022
+--------------------------------------------------
+Name: Ömer Bozan
+Club: Hatayspor
+Periods: 2010-2015
+--------------------------------------------------
+Name: Adem Büyük
+Club: Kasimpasa
+Periods: 2012-2017
+--------------------------------------------------
+Name: Gökhan Ünal
+Club: Kayserispor
+Periods: 2011-2012
+--------------------------------------------------
+Name: Zafer Biryol
+Club: Konyaspor
+Periods: 2003-2005
+--------------------------------------------------
+Name: Serkan Aykut
+Club: Samsunspor
+Periods: 1992-2000, 2002-2009
+--------------------------------------------------
+Name: Aatif Chahechouhe
+Club: Sivasspor
+Periods: 2012-2016
+--------------------------------------------------
+Name: Hami Mandıralı
+Club: Trabzonspor
+Periods: 1985-1998, 1999-2002
+--------------------------------------------------

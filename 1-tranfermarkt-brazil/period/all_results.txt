@@ -1,0 +1,80 @@
+Name: Tiquinho Soares
+Club: Botafogo de Futebol e Regatas
+Periods: 2022-2025
+--------------------------------------------------
+Name: Magno Alves
+Club: Ceará Sporting Club
+Periods: 2010-2011, 2012-2015, 2017-2018
+--------------------------------------------------
+Name: Hulk
+Club: Clube Atlético Mineiro
+Periods: 2021-2025
+--------------------------------------------------
+Name: Romário
+Club: Clube de Regatas Vasco da Gama
+Periods: 1981-1988, 1999-2002, 2005-2006, 2006-2006, 2006-2008
+--------------------------------------------------
+Name: Fred
+Club: Cruzeiro Esporte Clube
+Periods: 2004-2005, 2018-2020
+--------------------------------------------------
+Name: Gabriel Barbosa
+Club: CR Flamengo
+Periods: 2019-2019, 2020-2025
+--------------------------------------------------
+Name: Gilberto
+Club: Esporte Clube Bahia
+Periods: 2018-2022
+--------------------------------------------------
+Name: Mendes
+Club: Esporte Clube Juventude
+Periods: 2008-2010
+--------------------------------------------------
+Name: Dinei
+Club: Esporte Clube Vitória
+Periods: 2008-2008, 2012-2015, 2021-2023
+--------------------------------------------------
+Name: Fred
+Club: Fluminense Football Club
+Periods: 2009-2016, 2020-2022
+--------------------------------------------------
+Name: Yago Pikachu
+Club: Fortaleza Esporte Clube
+Periods: 2021-2022, 2023-2023, 2024-2025
+--------------------------------------------------
+Name: Diego Souza
+Club: Grêmio Foot-Ball Porto Alegrense
+Periods: 2007-2007, 2020-2023
+--------------------------------------------------
+Name: Xuxa
+Club: Mirassol Futebol Clube (SP)
+Periods: 2011-2011, 2012-2012, 2014-2014, 2016-2017, 2018-2018
+--------------------------------------------------
+Name: Lincom
+Club: Red Bull Bragantino
+Periods: 2011-2012, 2013-2014, 2014-2015, 2015-2015, 2015-2017
+--------------------------------------------------
+Name: Neymar
+Club: Santos FC
+Periods: 2009-2013, 2025-2025
+--------------------------------------------------
+Name: Raphael Veiga
+Club: Sociedade Esportiva Palmeiras
+Periods: 2017-2018, 2018-2025
+--------------------------------------------------
+Name: Yuri Alberto
+Club: Sport Club Corinthians Paulista
+Periods: 2022-2023, 2023-2025
+--------------------------------------------------
+Name: Diego Souza
+Club: Sport Club do Recife
+Periods: 2014-2015, 2016-2018, 2023-2024
+--------------------------------------------------
+Name: Leandro Damião
+Club: Sport Club Internacional
+Periods: 2010-2014, 2017-2018
+--------------------------------------------------
+Name: Luís Fabiano
+Club: São Paulo Futebol Clube
+Periods: 2001-2001, 2002-2004, 2011-2016
+--------------------------------------------------
